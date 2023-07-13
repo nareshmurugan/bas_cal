@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h1{
+    background: rgb(212,206,206);
+    color: red;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    background: white;
+    color: blue;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: xx-large
+}
+div{
+    background: red;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+}
+p{
+    background: red;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    margin: auto;
+    font-size: xx-large;
+}
